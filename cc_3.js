@@ -15,6 +15,7 @@ let customers = [{
                  },
                 ]
                 console.log(customers)
+                console.log('---------------------------')
 
                 customers.push({
                     "name": "Mark S",
@@ -22,13 +23,16 @@ let customers = [{
                     "purchases": ["sponges", "soap", "water",]
                 })
                 console.log(customers)
+                console.log('---------------------------')
 
                 customers.shift(0)
                 console.log(customers)
+                console.log('---------------------------')
 
                 customers[0].email = "maryb@earthlink.com"
                 customers[2].purchases.push("eggs")
                 console.log(customers)
+                console.log('---------------------------')
 
                 customers.forEach(function(customers){
                     console.log(`name: ${customers.name}`);

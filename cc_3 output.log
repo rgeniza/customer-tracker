@@ -1,0 +1,97 @@
+[Running] node "c:\Users\rpgen\OneDrive\Documents\customer-tracker\cc_3.js"
+
+[Done] exited with code=0 in 0.907 seconds
+
+[Running] node "c:\Users\rpgen\OneDrive\Documents\customer-tracker\cc_3.js"
+
+[Done] exited with code=0 in 0.092 seconds
+
+[Running] node "c:\Users\rpgen\OneDrive\Documents\customer-tracker\cc_3.js"
+[
+  {
+    name: 'Joe R',
+    email: 'joer@gmail.com',
+    purchases: [ 'books', 'pens', 'notebook' ]
+  },
+  {
+    name: 'Mary B',
+    email: 'maryb@outlook.com',
+    purchases: [ 'candles', 'socks', 'shoes' ]
+  },
+  {
+    name: 'John E',
+    email: 'johne@yahoo.com',
+    purchases: [ 'tools', 'laptop', 'phone' ]
+  }
+]
+[
+  {
+    name: 'Joe R',
+    email: 'joer@gmail.com',
+    purchases: [ 'books', 'pens', 'notebook' ]
+  },
+  {
+    name: 'Mary B',
+    email: 'maryb@outlook.com',
+    purchases: [ 'candles', 'socks', 'shoes' ]
+  },
+  {
+    name: 'John E',
+    email: 'johne@yahoo.com',
+    purchases: [ 'tools', 'laptop', 'phone' ]
+  },
+  {
+    name: 'Mark S',
+    email: 'marks@gmail.com',
+    purchases: [ 'sponges', 'soap', 'water' ]
+  }
+]
+[
+  {
+    name: 'Mary B',
+    email: 'maryb@outlook.com',
+    purchases: [ 'candles', 'socks', 'shoes' ]
+  },
+  {
+    name: 'John E',
+    email: 'johne@yahoo.com',
+    purchases: [ 'tools', 'laptop', 'phone' ]
+  },
+  {
+    name: 'Mark S',
+    email: 'marks@gmail.com',
+    purchases: [ 'sponges', 'soap', 'water' ]
+  }
+]
+[
+  {
+    name: 'Mary B',
+    email: 'maryb@earthlink.com',
+    purchases: [ 'candles', 'socks', 'shoes' ]
+  },
+  {
+    name: 'John E',
+    email: 'johne@yahoo.com',
+    purchases: [ 'tools', 'laptop', 'phone' ]
+  },
+  {
+    name: 'Mark S',
+    email: 'marks@gmail.com',
+    purchases: [ 'sponges', 'soap', 'water', 'eggs' ]
+  }
+]
+name: Mary B
+email: maryb@earthlink.com
+total purchases: 3
+-----------------------------
+name: John E
+email: johne@yahoo.com
+total purchases: 3
+-----------------------------
+name: Mark S
+email: marks@gmail.com
+total purchases: 4
+-----------------------------
+
+[Done] exited with code=0 in 0.116 seconds
+
