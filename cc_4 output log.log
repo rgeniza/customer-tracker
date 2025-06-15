@@ -1,0 +1,58 @@
+
+laptop (electronics): Original Price $1500, Discounted Price $1200
+jacket (apparel): Original Price $50, Discounted Price $42.5
+fruits (groceries): Original Price $5, Discounted Price $4.5
+soap (household): Original Price $15, Discounted Price $13.5
+backpack (other): Original Price $30, Discounted Price $30
+-----------------------
+Customer 1 (regular) Total: $1213.5
+Customer 2 (student) Total: $44.65
+Customer 3 (senior) Total: $44.64
+----------------------
+Updated Inventory:
+laptop: 14 remaining
+jacket: 9 remaining
+fruits: 3 remaining
+soap: 18 remaining
+backpack: 9 remaining
+----------------------
+Details for product: fruits (Customer Type: senior)
+name: fruits
+category: groceries
+price: 5
+inventory: 3
+newPrice (after discounts): 4.185
+---------------
+Product: laptop
+name: laptop
+category: electronics
+price: 1500
+inventory: 14
+------------
+Product: jacket
+name: jacket
+category: apparel
+price: 50
+inventory: 9
+------------
+Product: fruits
+name: fruits
+category: groceries
+price: 5
+inventory: 3
+------------
+Product: soap
+name: soap
+category: household
+price: 15
+inventory: 18
+------------
+Product: backpack
+name: backpack
+category: other
+price: 30
+inventory: 9
+------------
+
+[Done] exited with code=0 in 0.109 seconds
+
